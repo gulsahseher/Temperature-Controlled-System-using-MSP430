@@ -1,2 +1,2 @@
-# -Temperature-Controlled-System-using-MSP430
+# Temperature-Controlled-System-using-MSP430
 In this project, I aimed to make a temperature controlled system using MSP430G2553 MCU. I designed a system that heats or cools according to the temperature of the environment. I used LEDs to heat the environment. I have this led on for values ​​below 25°C. I also used a fan to cool the environment. I have the fan running for values ​​above 30°C. If it is between 25°C-30°C, I aimed to stop the system. At the same time, I used an LCD display in the project for observation purposes.
