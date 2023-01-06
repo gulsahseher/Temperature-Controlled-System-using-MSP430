@@ -1,0 +1,8 @@
+lcd_4bit.pbi: \
+  C:\Users\GULSAH\Documents\IAR\ Embedded\ Workbench\ IDE\project_2\lcd_driver\src\lcd_4bit.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc\msp430.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc/msp430g2553.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc/in430.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc/intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\430\inc\in430.h \
+  C:\Users\GULSAH\Documents\IAR\ Embedded\ Workbench\ IDE\project_2\lcd_driver\inc\lcd_4bit.h
